@@ -19,3 +19,4 @@ This Challenge creates a neural network that HR can use to predict whether emplo
 1. Clone Repository  
 2. Install Requirements  
 3. Run 'attrition.ipynb' file  
+    - Accuracy scores are written in VS code (may need to change [i+1] to different number if running in different editor)
